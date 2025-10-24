@@ -1,0 +1,4 @@
+Task 4: Aggregate Functions and Grouping
+1. Total Revenue, Average Order Value, and Customer Count by Country
+2. Identifying High-Value Items Purchased Using HAVING
+3.Customers with Multiple Pending Shipments Using HAVING
